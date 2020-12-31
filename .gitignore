@@ -1,0 +1,13 @@
+__pycache__
+data.db
+.pytest_cache
+venv
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
